@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73aeebb4-1d0c-4c36-9094-6e6433f24e42" name="Default Changelist" comment="" />
+    <list default="true" id="73aeebb4-1d0c-4c36-9094-6e6433f24e42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/main/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/src/main/java/quickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/main/java/quickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/main/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/main/java/implement/DijkstraByQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/main/java/implement/DijkstraByQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/generate/Generate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/generate/Generate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/implement/DijkstraByQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/implement/DijkstraByQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/implement2/DijkstraByPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/implement2/DijkstraByPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/implement2/VerticeEdge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/model/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/model/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/model/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/model/Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/model/Vertice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/model/Vertice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/model/VerticePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/model/VerticePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/classes/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/classes/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/classes/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/classes/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/test/TestHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/test/TestHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/test/TestPull.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/test/TestPull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/classes/util/Random.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/classes/util/Random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/test-classes/META-INF/lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/test-classes/Test/TestConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/test-classes/Test/TestConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/target/test-classes/Test/TestGenerate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/target/test-classes/Test/TestGenerate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +110,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -21,14 +126,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="108">
+              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -37,20 +154,18 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Kmp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2993#2994#0" expanded="true" />
-                <element signature="e#3022#3023#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,8 +174,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/story.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="317" column="21" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
+            <state relative-caret-position="1816">
+              <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -68,8 +183,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Input.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="198">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -77,8 +192,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="162">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,12 +216,16 @@
       <find>textIndex</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Input.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Kmp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
@@ -126,15 +245,15 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-3" />
-    <option name="width" value="920" />
-    <option name="height" value="491" />
+    <option name="width" value="921" />
+    <option name="height" value="492" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,11 +283,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561347380226" />
@@ -226,17 +347,18 @@
       <updated>1561274922711</updated>
       <workItem from="1561274927368" duration="3592000" />
       <workItem from="1561339764676" duration="6202000" />
+      <workItem from="1561423240753" duration="3084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9794000" />
+    <option name="totallyTimeSpent" value="12878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17865804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,6 +393,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://E:/jdk8/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -278,31 +401,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk8/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="292" column="36" selection-start-line="292" selection-start-column="28" selection-end-line="292" selection-end-column="36" />
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Input.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/story.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="1816">
+          <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="270">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -311,29 +454,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="108">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/story.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="317" column="21" selection-start-line="317" selection-start-column="21" selection-end-line="317" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Kmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2993#2994#0" expanded="true" />
-            <element signature="e#3022#3023#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -390,7 +514,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab4</last-edited>
+          <last-edited>algo_lab4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

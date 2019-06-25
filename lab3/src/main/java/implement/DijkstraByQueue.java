@@ -31,8 +31,11 @@ public class DijkstraByQueue {
                     maxNum=tempNum;
                 }
             }
+
+
             VerticePath nowVerticePath=queue.get(minIndex);
             queue.remove(minIndex);
+
             LinkedList<Path> nowPath=nowVerticePath.getPaths();
             int iniWeight=sortestPath.get(nowVerticePath.getPoint().getName());
             for(Path path:nowPath){

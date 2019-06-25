@@ -7,7 +7,6 @@ public class Main {
         String text=Input.readFile("story.txt");
         Kmp.setText(text);
         Kmp.matchStr("said");
-
     }
 }
  

@@ -25,7 +25,8 @@ public class QuickSort {
                 if (lowIndex == highIndex) {
                     unsortArray[lowIndex] = key;
                     break;
-                } else {
+                }
+                else {
                     if (turn) {
                         if (unsortArray[highIndex] < key) {
                             unsortArray[lowIndex] = unsortArray[highIndex];
@@ -34,7 +35,9 @@ public class QuickSort {
                         else{
                             highIndex -= 1;
                         }
-                    } else {
+                    }
+                    else {
+
                         if (unsortArray[lowIndex] > key) {
                             unsortArray[highIndex] = unsortArray[lowIndex];
                             turn = true;
